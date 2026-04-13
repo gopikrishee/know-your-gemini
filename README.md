@@ -1,6 +1,6 @@
-# GitHub Ticket Assistant
+# Know Your Gemini
 
-Welcome to the **Know Your Gemini (KYG)** repository. This project is designed to help developers streamline their software development lifecycle by KYG automated tools to simplify the creation and management of GitHub tickets (issues).
+Welcome to the **Know Your Gemini (KYG)** repository. This project is designed to help developers streamline their software development lifecycle by Gemini to simplify the creation and management of GitHub tickets (issues).
 
 ### Why use this Assistant?
 
