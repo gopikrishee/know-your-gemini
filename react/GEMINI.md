@@ -21,16 +21,16 @@ This project is a personal portfolio website for a Senior .NET Developer. It is 
 
 ```
 src/
-├── assets/          # Static files: images, fonts, icons
-├── components/      # Shared/reusable UI components (dumb components)
-├── hooks/           # Global custom hooks (not tied to a single feature)
-├── layouts/         # Page layout wrappers
-├── pages/           # Route-level page components
-│   └── subfolder /  # Sub-folders for pages (examples: home, blog, projects)
+├── assets/                          # Static files: images, fonts, icons
+├── components/                      # Shared/reusable UI components (dumb components)
+├── hooks/                           # Global custom hooks (not tied to a single feature)
+├── layouts/                         # Page layout wrappers
+├── pages/                           # Route-level page components
+│   └── subfolder /                  # Sub-folders for pages (examples: home, blog, projects)
 │       ├── page-specific components # Page-specific components (examples: ProfileCard.jsx, BlogCard.jsx)
-├── api/             # API calls and external integrations
-├── store/           # Global state (Redux store)
-├── utils/           # Pure utility/helper functions
+├── api/                             # API calls and external integrations
+├── store/                           # Global state (Redux store)
+├── utils/                           # Pure utility/helper functions
 └── App.jsx
 ```
 
