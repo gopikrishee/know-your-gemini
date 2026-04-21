@@ -26,6 +26,8 @@ src/
 ├── hooks/           # Global custom hooks (not tied to a single feature)
 ├── layouts/         # Page layout wrappers
 ├── pages/           # Route-level page components
+│   └── subfolder /  # Sub-folders for pages (examples: home, blog, projects)
+│       ├── page-specific components # Page-specific components (examples: ProfileCard.jsx, BlogCard.jsx)
 ├── api/             # API calls and external integrations
 ├── store/           # Global state (Redux store)
 ├── utils/           # Pure utility/helper functions
