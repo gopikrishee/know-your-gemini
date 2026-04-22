@@ -1,5 +1,5 @@
 ---
-name: API Service Layer
+name: api
 description: Describes the API abstraction layer including client configuration, endpoints, services, interceptors, utilities, and best practices for centralized API management. Use this skill when building new endpoints or calling existing API services.
 ---
 

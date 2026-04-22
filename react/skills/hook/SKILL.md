@@ -1,5 +1,5 @@
 ---
-name: Custom React Hooks Library
+name: hook
 description: Covers all custom React hooks that encapsulate stateful logic and side effects. These hooks are designed to be reusable across components and follow React Hooks conventions. Use this skill when building new hook or calling existing hook.
 ---
 

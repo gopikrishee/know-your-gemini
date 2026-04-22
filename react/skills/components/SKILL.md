@@ -1,5 +1,5 @@
 ---
-name: React Components Library
+name: components
 description: Covers reusable UI components, modular design principles, component types (presentational, container, layout, form, UI), and best practices for component organization. Use this skill when building new component or calling existing component.
 ---
 
