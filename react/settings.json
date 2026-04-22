@@ -2,6 +2,7 @@
   "context": { "fileName": "GEMINI.md" },
   "skills": {
     "path": "./.gemini/skills",
-    "autoActivate": true
+    "autoActivate": true,
+    "enabled": true
   }
 }
